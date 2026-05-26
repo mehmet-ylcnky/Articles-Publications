@@ -4,9 +4,9 @@ This repo lists the articles which I publish about cloud, data engineering and m
 
 | Article | Date |
 |---------|------|
-| [**`borrowscope-vscode`**: Interactive Ownership Visualization for Rust in VS Code](https://mehmet-ylcnky.github.io/BorrowScope/vscode-ownership-visualization/)) | 2026-06-23 |
-| [**`borrowscope-lsp`**: Real-Time Ownership Visualization via Language Server Protocol](https://mehmet-ylcnky.github.io/BorrowScope/lsp-based-ownership-visualization/)) | 2026-06-02 |
-| [**`borrowscope-graph`**: Ownership Graph Construction from Runtime Event Streams](https://mehmet-ylcnky.github.io/BorrowScope/ownership-graph-construction/)) | 2026-05-30 |
+| [**`borrowscope-vscode`**: Interactive Ownership Visualization for Rust in VS Code](https://mehmet-ylcnky.github.io/BorrowScope/vscode-ownership-visualization/) | 2026-06-23 |
+| [**`borrowscope-lsp`**: Real-Time Ownership Visualization via Language Server Protocol](https://mehmet-ylcnky.github.io/BorrowScope/lsp-based-ownership-visualization/) | 2026-06-02 |
+| [**`borrowscope-graph`**: Ownership Graph Construction from Runtime Event Streams](https://mehmet-ylcnky.github.io/BorrowScope/ownership-graph-construction/) | 2026-05-30 |
 | [**`borrowscope-analyzer`**: Eliminating Heuristics from Rust Procedural Macros Through Pre-Build Semantic Analysis](https://mehmet-ylcnky.github.io/BorrowScope/eliminating-heuristics-from-rust-proc-macros/)) | 2026-05-06 |
 | [**`borrowscope-analyzer`**: Bridging the Type Information Gap](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-analyzer-whitepaper/) | 2026-03-03 |
 | [**`borrowscope-macro`**: Rust's Type Information Barrier](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-macro-whitepaper/) | 2026-01-28 |
