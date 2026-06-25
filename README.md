@@ -4,7 +4,11 @@ This repo lists the articles which I publish about cloud, data engineering and m
 
 | Article | Date |
 |---------|------|
+| [**`deriva`**: Streaming Materialization in a Computation-Addressed Store](https://mehmet-ylcnky.github.io/Deriva/streaming-materialization/) | 2026-06-25 |
+| [**`deriva`**: Robust Materialization in a Computation-Addressed Store](https://mehmet-ylcnky.github.io/Deriva/robust-materialization/) | 2026-06-25 |
+| [**`deriva`**: Computation-Addressed Distributed File System](https://mehmet-ylcnky.github.io/Deriva/computation-addressed-storage/) | 2026-06-25 |
 | [**`borrowscope-lsp`**: End-to-End Ownership Instrumentation Pipeline for Rust](https://mehmet-ylcnky.github.io/BorrowScope/end-to-end-pipeline/) | 2026-06-24 |
+| [**`borrowscope-lsp`**: Merging Static and Runtime Analysis for Rust Ownership Visualization](https://mehmet-ylcnky.github.io/BorrowScope/runtime-static-merge/) | 2026-06-24 |
 | [**`borrowscope-vscode`**: Interactive Ownership Visualization for Rust in VS Code](https://mehmet-ylcnky.github.io/BorrowScope/vscode-ownership-visualization/) | 2026-06-23 |
 | [**`borrowscope-lsp`**: Real-Time Ownership Visualization via Language Server Protocol](https://mehmet-ylcnky.github.io/BorrowScope/lsp-based-ownership-visualization/) | 2026-06-02 |
 | [**`borrowscope-graph`**: Ownership Graph Construction from Runtime Event Streams](https://mehmet-ylcnky.github.io/BorrowScope/ownership-graph-construction/) | 2026-05-30 |
